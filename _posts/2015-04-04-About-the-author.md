@@ -22,6 +22,6 @@ Enter a coding challenge,
 Enter a Maths challenge,
 Darwendale 20K bike race challenge to support Breast cancer awareness,
 Kutama Farm Cycle Polo,and 
-Darwendale boat challenge.
+Darwendale boat race.
 
 For more information, ping us at nortonsville@kutama.space
