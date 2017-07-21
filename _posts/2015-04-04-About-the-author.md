@@ -20,7 +20,7 @@ Things to do to support Kutama Space and raise money for good causes-
 Buy a Kutama Space T-Shirt, 
 Enter a coding challenge,
 Enter a Maths challenge,
-Darwendale 20K bike race challenge to support Breast cancer awareness,
+Darwendale 20K bike race in support of Breast cancer awareness,
 Kutama Farm Cycle Polo,and 
 Darwendale boat race.
 
