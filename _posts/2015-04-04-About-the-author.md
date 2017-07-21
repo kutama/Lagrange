@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 image:
   feature: computer.jpg
-  teaser: cutting-teaser.jpg
+  teaser: computer-teaser.jpg
   credit:
   creditlink:
 ---
