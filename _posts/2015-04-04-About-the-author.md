@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Chamu kutama"
 categories: journal
 tags: [documentation,sample]
 image:
@@ -11,10 +11,12 @@ image:
   creditlink:
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Below is a compilation of some of my favourite things that I have built over the years. You may find everything else on my <a href="http://github.com/lenpaul" target="_blank">Github</a> and <a href="https://codepen.io/lenpaul" target="_blank">Code Pen</a> profiles.
+Hi there! I'm Chamu from Kutama. I’m a math grad turned software enegineer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. 
 
-### Jekyll Website Theme for Blogging
+### Jekyll Website Theme.
 
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog. This theme is currently being used by about three dozen people, with this number growing every day.
+Millennia is a minimalist Jekyll blog theme , a sample git and Jekyll project for 2nd formers at Kutama. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
 
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/Installation-Guide.html">how to use install</a> and use the theme.
+On this space a learning portal shall be build over the next weeks and months for Kutama.space students to offer courses in Computer science and Maths. The courses include - Object-oriented programming , Introduction to Python for 3rd and 4th formers , Advanced python programming for 5th formers , Java programming for fourth formers , Developing algorithms , Programming games for 4th formers , Embedded programmin for 5th formers and Maths applications in computer science.
+
+If you have a question , ping me at norton@kutama.space
