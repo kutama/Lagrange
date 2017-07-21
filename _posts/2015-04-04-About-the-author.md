@@ -5,7 +5,7 @@ author: "Chamu kutama"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: cutting.jpg
+  feature: computer.jpg
   teaser: cutting-teaser.jpg
   credit:
   creditlink:
