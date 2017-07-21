@@ -15,11 +15,13 @@ Hi there! I'm Chamu from Kutama , the community not the school.
 
 On this space an interactive learning platform shall be built to offer courses in Computer science and Maths. The courses include - Object-oriented programming , Introduction to Python for 3rd and 4th formers , Advanced python programming for 5th formers , Java programming for 5th formers , developing algorithms , game development for 4th formers , Embedded programming for 5th formers , Math applications in computer science, among many courses.
 
-Things to do to support Kutama.space -
+Things to do to support Kutama Space and raise money for good causes-
 
-Buy a Kutama Boys T-Shirt , 
-Enter a coding challenge to raise money for good causes,
-Enter a Maths challenge to raise money for good causes,
-Darwendale 20K bike challenge to support Breast cancer awareness.
+Buy a Kutama Space T-Shirt, 
+Enter a coding challenge,
+Enter a Maths challenge,
+Darwendale 20K bike race challenge to support Breast cancer awareness,
+Munga Farm Cycle Polo,
+Darwendale boat challenge.
 
 For more information, ping us at nortonsville@kutama.space
