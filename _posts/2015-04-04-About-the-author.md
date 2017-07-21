@@ -11,7 +11,7 @@ image:
   creditlink:
 ---
 
-Hi there! I'm Chamu from Kutama , the community not the School. I’m a math grad turned software enegineer. Ever since I first learned how to program while taking a scientific computing for maths course, I have pursued programming as a passion, and as a career. 
+Hi there! I'm Chamu from Kutama , the community not the school. I’m a math grad turned software enegineer. Ever since I first learned how to program while taking a scientific computing for maths course, I have pursued programming as a passion, and as a career. 
 
 ### Jekyll Website Theme.
 
