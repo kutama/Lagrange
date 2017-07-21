@@ -1,8 +1,8 @@
-title:  Lagrange
-tagline:  a minimalist Jekyll theme
+title:  Kutama Chamu
+tagline:  My school project will be here.
 author:
-  name: "Paul Le"
-  twitter:  paululele
+  name: "Chamu Kutama"
+  twitter:  Ckutama
 
 menu:
 - {name: 'About', url: 'about.html'}
@@ -10,10 +10,9 @@ menu:
 - {name: 'Contact', url: 'contact.html'}
 
 social:
-- {icon: 'github', link: 'https://www.github.com/lenpaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'github', link: 'https://www.github.com/kutama'}
+- {icon: 'twitter', link: 'https://twitter.com/Ckutama'}
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'envelope', link: 'mailto:norton@kutama.space'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
