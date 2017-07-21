@@ -21,7 +21,7 @@ Buy a Kutama Space T-Shirt,
 Enter a coding challenge,
 Enter a Maths challenge,
 Darwendale 20K bike race challenge to support Breast cancer awareness,
-Munga Farm Cycle Polo,
+Mbizi Farm Cycle Polo,
 Darwendale boat challenge.
 
 For more information, ping us at nortonsville@kutama.space
