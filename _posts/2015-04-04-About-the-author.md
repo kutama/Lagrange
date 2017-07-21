@@ -20,6 +20,6 @@ Things to do to support Kutama.space -
 Buy a Kutama Boys T-Shirt , 
 Enter a coding challenge to raise money for good causes,
 Enter a Maths challenge to raise money for good causes,
-Darwendale 50K bike challenge to support Breast cancer awareness.
+Darwendale 20K bike challenge to support Breast cancer awareness.
 
 For more information, ping us at nortonsville@kutama.space
