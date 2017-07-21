@@ -22,4 +22,4 @@ Darwendale 20K bike race in support of Breast cancer awareness,
 Kutama Junior Cycle Polo,and 
 Darwendale boat race.
 
-For more information, ping us to nortonsville@kutama.space
+For more information, ping us to nortonville@kutama.space
