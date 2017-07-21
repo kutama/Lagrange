@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "About Kutama Space"
 author: "Chamu kutama"
 categories: journal
 tags: [documentation,sample]
@@ -19,7 +19,7 @@ Buy a Kutama Space T-Shirt,
 Enter a coding challenge,
 Enter a Maths challenge,
 Darwendale 20K bike race in support of Breast cancer awareness,
-Kutama Cycle Polo,and 
+Kutama Junior Cycle Polo,and 
 Darwendale boat race.
 
 For more information, ping us to nortonsville@kutama.space
