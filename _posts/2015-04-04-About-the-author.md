@@ -11,7 +11,7 @@ image:
   creditlink:
 ---
 
-On this space an interactive learning platform shall be placed to offer courses in Computer science and Maths. The courses include - Object-oriented programming , Introduction to Python for 3rd and 4th formers ,game development for 4th formers , Advanced python programming for 5th formers , Java programming for 5th formers , algorithms development , Embedded programming for 5th formers and Applied math for computer science, among many courses.
+On this space an interactive learning platform shall be built to offer courses in Computer science and Maths. The courses include - Object-oriented programming , Introduction to Python for 3rd and 4th formers ,game development for 4th formers , Advanced python programming for 5th formers , Java programming for 5th formers , algorithms development , Embedded programming for 5th formers and Applied math for computer science, among many courses.
 
 Things to do to support Kutama Space and raise money for good causes-
 
