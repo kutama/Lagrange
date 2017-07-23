@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Free Code Camp"
+title: "Coding Boot Camp"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
@@ -12,4 +12,6 @@ image:
 ---
 
 Interested in learning how to code? If you are interested in doing web development, check out [Free Code Camp](https://www.freecodecamp.com/).
-Kutama student hackathons - will be here soon. SDKs , Robotic kits for junior classes and other tools shall be found here.
+Kutama student hackathons and Darwendale coding boot camps - will be here soon.
+
+SDKs , Robotic kits and other tools shall be found here.
