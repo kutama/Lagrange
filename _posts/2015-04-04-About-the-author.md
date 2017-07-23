@@ -23,5 +23,3 @@ Kutama Junior Cycle Polo and
 Antelope shooting at Mbizi Antelope Estate Darwendale.
 
 For more information, ping us to nortonville@kutama.space
-
-About me - I am the owner of Kutama - a sheep herder at Mabrother Farms.
