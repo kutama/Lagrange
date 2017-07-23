@@ -20,7 +20,7 @@ Enter a coding challenge,
 Enter a Maths challenge,
 Darwendale 20K bike race in support of Breast cancer awareness,
 Kutama Junior Cycle Polo,and 
-Antelope hunting at Mbizi Estate Darwendale.
+Antelope shooting at Mbizi Antelope Estate Darwendale.
 
 For more information, ping us to nortonville@kutama.space
 
