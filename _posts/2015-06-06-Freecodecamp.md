@@ -12,4 +12,4 @@ image:
 ---
 
 Interested in learning how to code? If you are interested in doing web development, check out [Free Code Camp](https://www.freecodecamp.com/).
-Kutama student hackathons - will be here soon. SDKs , Robotic kits for juniors and other tools shall be found here.
+Kutama student hackathons - will be here soon. SDKs , Robotic kits for junior classes and other tools shall be found here.
