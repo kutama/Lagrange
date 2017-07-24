@@ -14,4 +14,4 @@ image:
 Interested in learning how to code? If you are interested in doing web development, check out [Free Code Camp](https://www.freecodecamp.com/).
 For Kutama student hackathons and Darwendale coding boot camps - please contact us.
 
-SDKs , Ubuntu field Robotic kits and other developer tools will be found here.
+SDKs , Ubuntu field Robotic kits and other developer tools shall be found here.
