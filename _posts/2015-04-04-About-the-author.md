@@ -22,4 +22,4 @@ Darwendale 20K bike race in support of Breast cancer awareness,
 Kutama Junior Cycle Polo and 
 Antelope shooting at Mbizi Antelope Estate Darwendale.
 
-For more information, ping us @@KutamaCodeclan
+For more information, ping us @KutamaCodeclan
