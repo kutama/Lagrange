@@ -21,6 +21,6 @@ Enter a Maths challenge,
 Darwendale 20K bike race in support of Breast cancer awareness,
 Kutama Junior Cycle Polo , 
 Antelope shooting at Kutama Antelope Estate,
-Play golf at 18 hole Kutama Golf Club (In development ).
+Play golf at 18 hole Kutama Golf Course. (In development ).
 
 For more information, ping us @KutamaCodeclan
