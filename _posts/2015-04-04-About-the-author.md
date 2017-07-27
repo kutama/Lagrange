@@ -19,7 +19,7 @@ Buy a "Hello Darwendale" T-Shirt OR a Hoodie ,
 Enter a coding challenge,
 Enter a Maths challenge,
 Darwendale 20K bike race in support of Breast cancer awareness,
-Kutama Junior Cycle Polo and 
-Antelope shooting at Mbizi Antelope Estate Darwendale.
+Kutama Junior Cycle Polo , 
+Antelope shooting at Kutama Antelope Estate.
 
 For more information, ping us @KutamaCodeclan
