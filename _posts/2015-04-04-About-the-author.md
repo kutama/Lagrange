@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About Kutama Space"
+title: "About Us"
 author: "Chamu kutama"
 categories: journal
 tags: [documentation,sample]
