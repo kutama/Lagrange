@@ -23,4 +23,4 @@ Kutama Junior Cycle Polo ,
 Antelope shooting at Kutama Antelope Estate,
 Play golf at an 18 hole Kutama Golf Course. (In development ).
 
-For more information, [tweet us](https://twitter.com/KutamaCodeclan).
+For more information, [ping us](https://twitter.com/KutamaCodeclan).
