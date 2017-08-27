@@ -15,7 +15,7 @@ On this space a computational interactive learning platform shall be deployed fo
 
 Things to do to support Kutama Space and raise money for good causes-
 
-Buy a "Hello Darwendale" T-Shirt OR a Hoodie , 
+Buy a "Hello Kutama" T-Shirt OR a Hoodie , 
 Enter a coding challenge,
 Enter a Maths challenge,
 Darwendale 20K bike race in support of Breast cancer awareness,
