@@ -20,7 +20,7 @@ Enter a coding challenge,
 Enter a Maths challenge,
 Darwendale 20K bike race in support of Breast cancer awareness,
 Kutama Junior Cycle Polo , 
-Antelope shooting at Kutama Antelope Estate,
+Antelope shooting at Nehanda Estate,
 Play golf at Kutama Springs.
 Volunteer at Kutama Falconry and conservation Estate.
 
