@@ -22,6 +22,6 @@ Darwendale 20K bike race in support of Breast cancer awareness,
 Kutama Junior Cycle Polo , 
 Antelope shooting at Kutama Antelope Estate,
 Play golf at Kutama Springs.
-Volunteer at Kutama Falconry and conservation centre.
+Volunteer at Kutama Falconry and conservation Estate.
 
 For more information, [ping us](https://twitter.com/KutamaCodeclan).
